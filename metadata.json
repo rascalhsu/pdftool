@@ -1,0 +1,6 @@
+{
+  "name": "魔法 PDF 工具箱",
+  "description": "提供多項實用 PDF 功能的工具箱，包含合併、分割、刪除、浮水印、壓縮與轉檔等功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
